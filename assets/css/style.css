@@ -9,7 +9,7 @@ body{
     width: 100%;
 }
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Inter';
 }
 main{
     height: 100%;
@@ -48,6 +48,9 @@ ul li:not(:first-child){
 }
 .w-65{
     width: 80%;
+}
+.w-25{
+    width: 25%;
 }
 .w-100{
     width: 100%;
